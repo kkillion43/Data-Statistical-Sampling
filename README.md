@@ -1,3 +1,3 @@
 # Data-Statistical-Sampling
 <br>
-### MSDS 6370 Exercises
+__MSDS 6370 Exercises__
